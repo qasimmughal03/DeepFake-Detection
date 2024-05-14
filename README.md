@@ -1,6 +1,7 @@
-**Deepfake Detection System**
+> **Deepfake Detection System**
 
 **Overview**
+
 The Deepfake Detection System is designed to effectively identify manipulated media using a combination of cutting-edge technologies. It integrates OpenCV, FaceNet, and LSTM networks within the TensorFlow framework to offer a robust solution for deepfake detection.
 
 **Methodology**
